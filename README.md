@@ -2,7 +2,7 @@
 
 A Year 9 Science media literacy activity. Students research five medical topics through a small "internet" of realistic source pages that range from peer-reviewed journals to wellness blogs and sponsored content, then judge which sources they can trust.
 
-**Live:** https://diocesanschoolforgirls.github.io/curatedcontent/
+**Live:** https://interactives.diocesan.school.nz/curatedcontent/
 
 Static HTML, no build step, no framework. Open `index.html` in a browser, or publish the folder to GitHub Pages.
 
